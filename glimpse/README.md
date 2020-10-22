@@ -1,4 +1,4 @@
-# Glimpse - ClLoud Infrastucture
+# Glimpse - Cloud Infrastucture
 
 Glimpse app's web-build hosted on aws/ec2 throuch docker container.
 
